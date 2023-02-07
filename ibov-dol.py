@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[36]:
-
-
 import pandas as pd
 import datetime
 import yfinance as yf
